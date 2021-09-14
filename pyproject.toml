@@ -6,7 +6,6 @@ authors = ["Davee Sok <daveesok@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-black = "^21.9b0"
 python-socketio = {extras = ["client"], version = "^5.4.0"}
 
 [tool.poetry.dev-dependencies]
