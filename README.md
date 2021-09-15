@@ -10,3 +10,7 @@
 ## Tools & Dependencies
 
 - Python Socket IO Client
+
+## Getting Started
+
+- Clone down this repo
