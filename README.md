@@ -21,6 +21,9 @@ Enter the following into terminal and hit enter
 git clone https://github.com/daveeS987/socket-client1.git
 cd socket-client1
 poetry shell
-poetry install
-python client.py
 ```
+
+Once Shelled up, run the following
+
+`poetry install`
+`python client.py`
