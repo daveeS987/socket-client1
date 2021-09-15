@@ -13,4 +13,14 @@
 
 ## Getting Started
 
-- Clone down this repo
+Clone Repository and install Dependencies
+
+Enter the following into terminal and hit enter
+
+```iterm
+git clone https://github.com/daveeS987/socket-client1.git
+cd socket-client1
+poetry shell
+poetry install
+python client.py
+```
