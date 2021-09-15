@@ -25,5 +25,5 @@ poetry shell
 
 Once Shelled up, run the following
 
-`poetry install`  
-`python client.py`
+- `poetry install`
+- `python client.py`
