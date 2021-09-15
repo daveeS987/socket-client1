@@ -48,7 +48,7 @@ name = input("Enter Name >> ")
 print("Type a message and hit enter")
 
 while running:
-    your_answer = input(">> ")
+    your_answer = input("")
     if your_answer == "q":
         running = False
     sio.emit("message", f"{name}: {your_answer}")
